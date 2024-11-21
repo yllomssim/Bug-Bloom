@@ -2,7 +2,7 @@
 A 2D aerial style game taking place on The Island, the player is tasked to help Bug &amp; Bloom collect items, earn points, and have fun!
 
 
-<a href="https://yllomssim.itch.io/bugbloom">Click here</a> to play Quest: Candy Land now on itch.io! 
+<a href="https://yllomssim.itch.io/bugbloom">Click here</a> to play Bug & Bloom now on itch.io! 
 
 Gameplay overview:
 
